@@ -21,7 +21,7 @@
     "kewah/for-each": "*",
     "component/css": "*",
     "jb55/domready": "*",
-    "component/event": "*"
+    "component/event": "*",
     "wilmoore/to-array.js": "*",
     "ramitos/dimensions": "*"
   }
