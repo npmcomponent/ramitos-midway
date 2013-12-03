@@ -1,0 +1,28 @@
+{
+  "name": "midway",
+  "version": "0.0.1",
+  "description": "automatically center responsive elements",
+  "repo": "ramitos/midway",
+  "keywords": [
+    "center",
+    "responsive",
+    "vertical",
+    "horizontal"
+  ],
+  "homepage": "https://github.com/ramitos/midway",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/midway.js",
+  "scripts": [
+    "src/midway.js"
+  ],
+  "dependencies": {
+    "kewah/for-each": "*",
+    "component/css": "*",
+    "jb55/domready": "*",
+    "component/event": "*"
+    "wilmoore/to-array.js": "*",
+    "ramitos/dimensions": "*"
+  }
+}
