@@ -1,9 +1,9 @@
-var dimensions = require('dimensions'),
-    css = require('css'),
-    evs = require('event'),
-    array = require('to-array.js'),
-    domready = require('domready'),
-    each = require('for-each')
+var dimensions = require('ramitos-dimensions'),
+    css = require('component-css'),
+    evs = require('component-event'),
+    array = require('wilmoore-to-array.js'),
+    domready = require('jb55-domready'),
+    each = require('kewah-for-each')
 
 
 module.exports = function () {

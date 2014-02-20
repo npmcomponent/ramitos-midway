@@ -1,0 +1,21 @@
+{
+  "name": "ramitos-midway",
+  "description": "automatically center responsive elements",
+  "version": "0.0.1",
+  "keywords": [
+    "center",
+    "responsive",
+    "vertical",
+    "horizontal"
+  ],
+  "main": "src/midway.js",
+  "dependencies": {
+    "kewah-for-each": "git://github.com/npmcomponent/kewah-for-each.git",
+    "component-css": "git://github.com/npmcomponent/component-css.git",
+    "jb55-domready": "git://github.com/npmcomponent/jb55-domready.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "wilmoore-to-array.js": "git://github.com/npmcomponent/wilmoore-to-array.js.git",
+    "ramitos-dimensions": "git://github.com/npmcomponent/ramitos-dimensions.git"
+  },
+  "license": "MIT"
+}
